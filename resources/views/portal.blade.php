@@ -138,10 +138,10 @@
     	Yocoima
     </div>
     
-<!--You can NOT remove this attribution statement from any page, unless you get the permission from prowebdesign.ro--><div id="attribution" class="wrapper clearfix" style="color:#666; font-size:11px;">   Proyecto de Enrique Cazorla, alumno de 2º DAW del I.E.S Al-Ándalus.
-</div><!--end attribution-->
+<div id="attribution" class="wrapper clearfix" style="color:#666; font-size:11px;">   Proyecto de Enrique Cazorla, alumno de 2º DAW del I.E.S Al-Ándalus.
+</div>
     
-</footer><!-- #end footer area --> 
+</footer>
 
 
 
